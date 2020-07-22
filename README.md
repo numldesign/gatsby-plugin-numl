@@ -8,7 +8,7 @@ There is no full SSR support at the moment, but you can use it with `npm run bui
 Install this module via **npm**:
 
 ```sh
-npm install gatsby-plugin-numl
+npm i -D gatsby-plugin-numl
 ```
 
 ## How to use
